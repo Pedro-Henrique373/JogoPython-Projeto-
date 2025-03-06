@@ -11,4 +11,3 @@ class Game:
             menu = Menu(self.window)
             menu.run()
             pass
-
